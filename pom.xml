@@ -26,6 +26,8 @@
 	<!-- adding a comment to see it as untracked file -->
 	<properties>
 		<java.version>1.8</java.version>
+		<server.port>8080</server.port>
+		<banner>console</banner>
 	</properties>
 	<dependencies>
 		<dependency>
